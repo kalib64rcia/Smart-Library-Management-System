@@ -12,10 +12,3 @@ Development Team
 Student Name: Caleb Joshua Garcia
 Course: IT 3012
 Section: 2C
-Member Management Module
-
-Features
-- Register New Member
-- Update Member Information
-- Delete Member Record
-- Search Member
