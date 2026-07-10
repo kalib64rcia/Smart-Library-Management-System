@@ -30,3 +30,4 @@ Contributor Name:
 
 Feature Added:
 - Digital Library Dashboard
+(Bret Hexell Verzo)
