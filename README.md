@@ -26,8 +26,8 @@ Features
 - 
 Contributor Update
 
-Contributor Name: 
+Contributor Name: Bret Hexell Verzo
 
 Feature Added:
 - Digital Library Dashboard
-(Bret Hexell Verzo)
+
