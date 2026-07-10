@@ -30,3 +30,5 @@ Contributor Name: Bret Hexell Verzo
 
 Feature Added:
 - Digital Library Dashboard
+
+(with license)
