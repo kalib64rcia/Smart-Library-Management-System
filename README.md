@@ -23,11 +23,10 @@ Features
 - Update Member Information
 - Delete Member Record
 - Search Member
-- 
+
 Contributor Update
 
 Contributor Name: Bret Hexell Verzo
 
 Feature Added:
 - Digital Library Dashboard
-
